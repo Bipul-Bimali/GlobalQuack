@@ -22,3 +22,13 @@ This project transforms a Raspberry Pi 4 into a self-powered, remotely accessibl
    ```bash
    sudo apt update
    sudo apt install python3 ssh
+
+
+### Community Contributions
+
+Your input is valuable! If you have any suggestions, ideas, or feedback to improve this project, feel free to contribute. Here’s how you can get involved:
+1. **Open an Issue**: Have a feature request or found a bug? Submit an issue [here](https://github.com/Bipul-Bimali/GlobalQuack/issues).
+2. **Fork and Improve**: Fork the repository, make your improvements, and open a pull request.
+3. **Share Ideas**: Connect with me directly via GitHub Discussions or on social media.
+
+Together, we can make this project even better! 🚀
