@@ -100,7 +100,7 @@ with open("/dev/hidg0", "rb+") as f:
     f.write(b'\x00\x00\x28\x00\x00\x00\x00\x00')  # Press 'Enter'
     f.write(b'\x00\x00\x00\x00\x00\x00\x00\x00')  # Release 'Enter'
 ```
-## The webapplication to convert Ducky script to Python code will be available shortly on [DuckyToPython](https://proj.bipulbimali.com.np/DuckyToPYthon.php)
+## The webapplication to convert Ducky script to Python code will be available shortly on [DuckyToPython](http://ahak.bipulbimali.com.np/DuckyToPython.php)
 
 ### Community Contributions
 
